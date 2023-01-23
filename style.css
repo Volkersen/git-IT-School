@@ -5,4 +5,8 @@ img {
 
 table {
   border: 5px black;
-}/*# sourceMappingURL=style.css.map */
+}
+
+body {
+  background-color: aqua;
+}
